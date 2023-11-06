@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mz448 -> Maximiliano Zuluaga Forero
+- 👀 I’m interested in genomes and animal behavior
+- 🌱 I’m currently learning bioinformatics
+- 💞️ I’m looking to collaborate on methylation sequencing and genome assembly 
+- 📫 Reach me at mz448@cornell.edu 
